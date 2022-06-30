@@ -1,0 +1,50 @@
+<style>
+        h1{
+            color:red;
+        }
+        h3{
+            color:rgb(78, 129, 52);
+        }
+        img{
+            width:100%;
+           
+        }
+        #size{
+             font-size:25px;
+             color:rgb(155, 151, 143);
+             border: 5px solid black;
+             border-radius:10px;
+             padding: 20px 40px;
+             margin: 20px;
+             text-align:center;
+        }
+        
+       
+        .background{
+            background-color:rgb(173, 132, 78);
+            font-size:25px;
+            
+        }
+        h5.background{
+            font-size:35px;
+        }
+        .modified{
+             color:red;
+             font-size:35px;
+        }
+        .modified2{
+            color:rgb(47, 52, 108);
+        }
+        .tour{
+            background-color:rgb(152, 179, 152);
+            font: size 17px;
+        }
+        .tour{
+            border: 5px solid rgb(80, 13, 13);
+            border-radius:10px;
+            margin: 40px 1.25%;
+            text-align:center;
+            width: 30%;
+           float: left;
+        }
+     </style>
